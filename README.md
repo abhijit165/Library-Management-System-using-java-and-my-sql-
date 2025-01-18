@@ -19,18 +19,6 @@
 #### - Student
 <br>
 
-## Screenshots
-<br>
-
-![Login Page](https://i.imgur.com/LAblOmW.png)
-<br><br><br>
-
-![Faculty Page](https://i.imgur.com/Boy5l0R.png)
-<br><br><br>
-
-![Add Notice Page](https://i.imgur.com/3eHtdY5.png)
-<br><br><br>
-
 ## Provided Functionalities
 
 ### 1. Admin
@@ -86,8 +74,4 @@
 
 #### MySQL for the Database
 <br>
-
-## Documentation
-
-### [Please visit my project's wiki to see the documentation.](https://github.com/shantam-verma/Library-Management-System-Java/wiki)
 
